@@ -1,7 +1,7 @@
-LMAST Realism Mod V1.4a
+LMAST Realism Mod V1.4b
 By KitsuNet
 
-Up to date as of 2024-12-20 @ 08:20 UTC
+Up to date as of 2025-02-15 @ 08:10 UTC
 
 REQUIREMENTS
 PCSX2 Emulator (Stable or Nightly)
@@ -38,6 +38,9 @@ Fixes to dead links and other issues in credits.
 
 NEW IN V1.4A
 Fixed incorrect icon of Slovakian flag, thanks to Gingernut.
+
+NEW IN V1.4B
+Fixed incorrect icon of FCSK (Dutch 3rd tier), thanks to Dang Nguyen.
 
 KNOWN ISSUES
 Licensed teams still have lowres logos.
