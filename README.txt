@@ -1,7 +1,7 @@
-LMAST Realism Mod V1.4b
+LMAST Realism Mod V1.5
 By KitsuNet
 
-Up to date as of 2025-02-15 @ 08:10 UTC
+Up to date as of 2025-02-32 @ 10:45 UTC
 
 REQUIREMENTS
 PCSX2 Emulator (Stable or Nightly)
@@ -41,6 +41,10 @@ Fixed incorrect icon of Slovakian flag, thanks to Gingernut.
 
 NEW IN V1.4B
 Fixed incorrect icon of FCSK (Dutch 3rd tier), thanks to Dang Nguyen.
+
+NEW IN V1.5
+Fixed incorrect icons of Toronto (Lynx) and Kanagawa (Yokohama FC), thanks to Dang Nguyen.
+Added more Special Thanks to credits.
 
 KNOWN ISSUES
 Licensed teams still have lowres logos.
